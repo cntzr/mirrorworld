@@ -1,0 +1,47 @@
+baseURL = "/"
+languageCode = "de-de"
+title = "mirrorworld"
+theme = "smpl"
+paginate = 5
+enableRobotsTXT = true
+
+[markup.goldmark.parser.attribute]
+  block = true
+  title = true
+
+[taxonomies]
+  tag = "tags"
+
+[menu]
+[[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = 1
+[[menu.main]]
+  name = "Journal"
+  url = "/posts/"
+  weight = 2
+[[menu.main]]
+  name = "Projekte"
+  url = "/projects/"
+  weight = 3
+[[menu.bottom]]
+  name = "Impressum"
+  url = "/pages/impressum/"
+  weight = 1
+[[menu.bottom]]
+  name = "Datenschutz"
+  url = "/pages/datenschutz/"
+  weight = 2
+
+[params]
+contentTypeName = "post"
+showLanguageSelector = false
+autoCover = true
+showLastUpdated = false
+custom_js = false
+dateFormat = "02.01.2006"
+dateListFormat = "02. Jan"
+
+[params.theme_config]
+  date_format = "02.01.2006"
