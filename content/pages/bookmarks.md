@@ -1,7 +1,7 @@
 ---
 title: Bookmarks
 date: 2023-02-02
-lastmod: 2023-02-20
+lastmod: 2023-02-25
 tags: [ "pages", "bookmarks" ]
 ---
 
@@ -40,6 +40,7 @@ mich gerade interessieren oder die ich benötige, an einem Ort griffbereit zu ha
 * [GhostSCAD - OpenSCAD with Golang](https://jany.st/post/2022-04-04-ghostscad-marrying-openscad-and-golang.html)
 * [GoTop - Clone von htop](https://github.com/xxxserxxx/gotop)
 * [Gracefully close channels](https://go101.org/article/channel-closing.html)
+* [Imports](https://scene-si.org/2018/01/25/go-tips-and-tricks-almost-everything-about-imports/)
 * [Interfaces in Go](https://jordanorelli.com/post/32665860244/how-to-use-interfaces-in-go#_=_)
 * [Lib for state machines](https://github.com/qmuntal/stateless)
 * [NATS for event streaming](https://www.youtube.com/watch?v=AhnL5addsVo&list=PLDWZ5uzn69ex0U5MmbKWorsTuVBgUePxw&index=7)
