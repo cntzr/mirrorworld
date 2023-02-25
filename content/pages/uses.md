@@ -1,8 +1,8 @@
 ---
 title: Uses
 date: 2023-02-01
-lastmod: 2023-02-13
-tags: [ "pages" ]
+lastmod: 2023-02-25
+tags: [ "pages", "tools", "linux" ]
 ---
 
 Die Idee zu dieser Seite entstand durch Daryl Sun's nicht mehr existierenden Blog "Beyond the Garden Walls", in dem sie u.a. auf die [Uses von Wes Bos](https://wesbos.com/uses/) einging. Die nachfolgenden Listen mögen einerseits Inspiration für andere Leser sein. Mir helfen sie, das eine oder andere Tool nicht zu vergessen oder auf meinen Rechnern und im Hardware-Zoo mal wieder aufzuräumen, wenn etwas dort schon sehr lange ungenutzt herumliegt.
@@ -10,8 +10,8 @@ Die Idee zu dieser Seite entstand durch Daryl Sun's nicht mehr existierenden Blo
 ## Schreiben
 
 * LibreOffice ... Office
+* md2pdf ... Konverter von Markdown nach PDF
 * neovim ... Editor
-* pandoc ... Dokument Konverter, z.B. Markdown in PDF
 * pdftoppm ... konvertiert PDF's in Grafiken
 * writefreely ... private Notizen
 
