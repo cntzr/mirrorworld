@@ -5,6 +5,8 @@ lastmod: 2023-02-26
 tags: [ "go", "pages", "workflow" ]
 ---
 
+# Go Modules
+
 Die Entwickler von Go haben damals entschieden, dass Importe von 
 Packages immer mit full-qualified Pathes erfolgen sollen. Relative
 Pfade und damit lokale Packages sind verpönt. Heißt in der Praxis, 
