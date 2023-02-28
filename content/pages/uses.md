@@ -1,7 +1,7 @@
 ---
 title: Uses
 date: 2023-02-01
-lastmod: 2023-02-25
+lastmod: 2023-02-28
 tags: [ "pages", "tools", "linux" ]
 ---
 
@@ -57,6 +57,7 @@ Die Idee zu dieser Seite entstand durch Daryl Sun's nicht mehr existierenden Blo
 * feh ... universeller Bildbetrachter (mag keine RAW's)
 * httpie ... Ersatz für curl
 * khard ... Kontakte
+* mcfly ... Ersatz für history
 * mons ... Verwaltung externer Monitore am Notebook
 * most ... Ersatz für more & less
 * pdfcpu ... PDF Bearbeitung
