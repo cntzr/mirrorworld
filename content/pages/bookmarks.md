@@ -1,7 +1,7 @@
 ---
 title: Bookmarks
 date: 2023-02-02
-lastmod: 2023-02-25
+lastmod: 2023-02-03
 tags: [ "pages", "bookmarks" ]
 ---
 
