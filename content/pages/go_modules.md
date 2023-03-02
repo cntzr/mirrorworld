@@ -1,7 +1,7 @@
 ---
 title: Go Modules
 date: 2023-02-26
-lastmod: 2023-02-26
+lastmod: 2023-03-02
 tags: [ "go", "pages", "workflow" ]
 ---
 
@@ -64,3 +64,17 @@ Inhalt der _go.mod_ im _Root_ Verzeichnis des Projektes ...
 Die _go.mod_ im _Root_ Verzeichnis hat lediglich eine Komfortfunktion.
 Ich kann damit das Binary auch von dieser Ebene aus bauen. Baue ich immer 
 nur im Verzeichnis _cmd_, kann diese _go.mod_ entfallen.
+
+Mein _vim-go_ Plugin im _neovim_ zeigte sich von meinem Vorgehen allerdings 
+nicht begeistert. Kann auch sein, dass es _gopls_ im Hintergrund war, das 
+da schimpfte. Es schlug direkt die Nutzung eines Workspaces vor, den es 
+seit Go 1.18 für genau solche Situationen gibt. Also schließt sich an 
+die oben aufgeführten Schritte noch die Einrichtung eines Workspaces an.
+Dazu Folgendes im Root des Projektes ausführen ...
+
+    go work init
+    go work use <module_1> <module_2> <module_n>
+
+Die beiden Aufrufe erstellen und füllen eine Datei _go.work_, die bei 
+Bedarf auch von Hand editiert werden kann.
+    
