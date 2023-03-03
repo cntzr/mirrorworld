@@ -1,7 +1,7 @@
 ---
 title: Uses
 date: 2023-02-01
-lastmod: 2023-02-28
+lastmod: 2023-03-03
 tags: [ "pages", "tools", "linux" ]
 ---
 
@@ -69,4 +69,5 @@ Die Idee zu dieser Seite entstand durch Daryl Sun's nicht mehr existierenden Blo
 * tz ... aktuelle Zeit in verschiedenen Zeitzonen
 * vifm ... Dateimanager
 * weechat ... IRC Client
+* z ... besser als cd
 * znc ... IRC Bouncer (wenn ich weechat intensiver nutze)
