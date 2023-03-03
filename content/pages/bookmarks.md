@@ -58,7 +58,8 @@ mich gerade interessieren oder die ich benötige, an einem Ort griffbereit zu ha
 ### TinyGo
 
 * [TinyGo @ GopherCon EU 2022](https://github.com/hybridgroup/gopherconeu-2022/tree/main/sensor/arduino)
-* [TinyGo Drivers](https://github.com/tinygo-org/drivers)
+* [Drivers](https://github.com/tinygo-org/drivers)
+* [Standard Library](https://tinygo.org/docs/reference/lang-support/stdlib/)
 
 ----
 
