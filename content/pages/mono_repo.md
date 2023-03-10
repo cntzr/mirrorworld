@@ -5,7 +5,7 @@ lastmod: 2023-03-10
 tags: [ "go", "pages", "workflow" ]
 ---
 
-# Go Modules
+# Mono Repository
 
 Die Entwickler von Go haben damals entschieden, dass Importe von 
 Packages immer mit full-qualified Pathes erfolgen sollen. Relative
