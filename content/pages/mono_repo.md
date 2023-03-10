@@ -32,7 +32,7 @@ Hier ein Beispiel ...
 ```
 
 Meine Packages bekommen weiterhin normale Namen, hier _main_ (im 
-Directory _cmd_) und _datetimes_.In jedem Directory erstelle ich 
+Directory _cmd_) und _datetimes_. In jedem Directory erstelle ich 
 eine Datei _go.mod_.
 
 Die _go.mod_ von _datetimes_ sieht in etwa so aus ...
