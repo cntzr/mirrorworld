@@ -1,7 +1,7 @@
 ---
 title: Uses
 date: 2023-02-01
-lastmod: 2023-03-03
+lastmod: 2023-03-12
 tags: [ "pages", "tools", "linux" ]
 ---
 
@@ -9,9 +9,11 @@ Die Idee zu dieser Seite entstand durch Daryl Sun's nicht mehr existierenden Blo
 
 ## Schreiben
 
+* helix ... Editor
 * LibreOffice ... Office
+* lvim ... LunarVim als Editor
 * md2pdf ... Konverter von Markdown nach PDF
-* neovim ... Editor
+* nvim ... NeoVim als Editor
 * pdftoppm ... konvertiert PDF's in Grafiken
 * writefreely ... private Notizen
 
@@ -27,7 +29,7 @@ Die Idee zu dieser Seite entstand durch Daryl Sun's nicht mehr existierenden Blo
 * Go ... meine derzeitige Programmiersprache
 * goproxy ... lokaler Module Speicher
 * lazygit ... TUI für Git Repositories
-* vim-go ... IDE Plugin für _neovim_
+* vim-go ... IDE Plugin für _nvim_
 
 ## Bildbearbeitung
 
