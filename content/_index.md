@@ -1,17 +1,8 @@
 ---
 title: "Home"
 date: 2023-02-20
-lastmod: 2023-03-10
+lastmod: 2023-03-12
 ---
-
-* [Bookmarks](/pages/bookmarks)
-* [Library](/pages/library)
-* [Now](/pages/now)
-* [Uses](/pages/uses)
-* [Workflows](/pages/workflows)
-  * [Darktable](/pages/darktable)
-  * [Git](/pages/git)
-  * [Mono Repo](/pages/mono_repo)
 
 > "Because keyboards are accessories to PC makers, they focus on minimizing 
 > the manufacturing costs. But that’s incorrect. When America’s cowboys 
