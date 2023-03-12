@@ -14,25 +14,33 @@ enableRobotsTXT = true
 
 [menu]
 [[menu.main]]
-  name = "Home"
+  name = "⌂"
   url = "/"
   weight = 1
 [[menu.main]]
+  name = "Pages"
+  url = "/pages/"
+  weight = 2
+[[menu.main]]
   name = "Journal"
   url = "/posts/"
-  weight = 2
+  weight = 3
 [[menu.main]]
   name = "Projekte"
   url = "/projects/"
-  weight = 3
+  weight = 4
 [[menu.bottom]]
   name = "Impressum"
-  url = "/pages/impressum/"
+  url = "/masters/impressum/"
   weight = 1
 [[menu.bottom]]
   name = "Datenschutz"
-  url = "/pages/datenschutz/"
+  url = "/masters/datenschutz/"
   weight = 2
+[[menu.bottom]]
+  name = "About"
+  url = "/masters/about/"
+  weight = 3
 
 [params]
 contentTypeName = "post"
