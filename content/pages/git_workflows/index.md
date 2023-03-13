@@ -2,7 +2,7 @@
 title: Git Workflows
 date: 2023-02-11
 lastmod: 2023-02-26
-tags: [ ]
+tags: [ "git" ]
 ---
 
 ## Git mit soft-serve
